@@ -1,6 +1,6 @@
 #LICENSE
 
-## Apache 2.0
+## Apache 3.0
 
 ## new change on 18.01.2020
 
